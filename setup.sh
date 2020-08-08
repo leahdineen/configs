@@ -4,3 +4,7 @@ ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loc
 
 brew install ripgrep
 brew install fd
+brew install ack
+brew install bash-completion
+brew install thefuck
+brew install pre-commit
