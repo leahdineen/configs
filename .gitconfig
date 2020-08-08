@@ -1,0 +1,22 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Leah Dineen
+	email = ldineen@lyft.com
+
+[color]
+	ui = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[alias]
+    gud = !git checkout master && git pull
+    rekt = !git push origin HEAD
+    some = "!f() { git commit -am \"$1\"; }; f"
+    lit = status
+    co = checkout
+    cob = checkout -b
+    fp = !git fetch --prune --all
