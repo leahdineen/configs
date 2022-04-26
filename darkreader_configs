@@ -1,0 +1,204 @@
+calendar.google.com
+
+CSS
+div[role="checkbox"] > div > div > div {
+    border: 1px solid rgb(0,0,0) !important;
+}
+.h11RHc{
+    background-color: #125AB8 !important;
+}
+.H3tRZe{
+    border-top-color: #125AB8 !important;
+}
+.g3dbUc.qqMC3e:not(.LKeQwe) {
+    color: rgb(0,0,0) !important;
+}
+.Jmftzc.EiZ8Dd.qqMC3e {
+    color: rgb(0,0,0) !important;
+}
+
+IGNORE INLINE STYLE
+div[role="checkbox"]
+
+================================
+
+github.com
+github.*.*
+
+INVERT
+[src="https://github.githubassets.com/images/modules/site/icons/footer/github-logo.svg"]
+[src^="https://github.githubassets.com/images/modules/site/home/community-sponsor-"]
+[src^="https://github.githubassets.com/images/modules/site/home/community-readme-"]
+[src^="https://github.githubassets.com/images/modules/site/home/community-discussions-"]
+[src="https://github.githubassets.com/images/modules/site/home/dependabot-merge.png"]
+[src="https://github.githubassets.com/images/modules/site/home/dependabot-pr.png"]
+[src="https://github.githubassets.com/images/modules/site/home/gh-desktop.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-merge.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-comment.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-description.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-screen.png"]
+[src="https://github.githubassets.com/images/modules/site/home/enterprise-city-w-logos.jpg"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/codespaces-icon.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/dependency-rust.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/dependency-3.png"]
+[src^="https://github.githubassets.com/images/modules/site/codespaces/dependencies-"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/commit-3.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/extensions-1.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/extensions-2.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/commit-workflow.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/workflow-view.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/code.png"]
+[src="https://github.githubassets.com/images/email/explore/explore-gradient-icon.png"]
+[src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/learn-to-code/learn-to-code.png"]
+.js-viewport-aware-video.color-bg-primary.width-full.d-block.codespaces-hero-video
+.build-in-animate.position-relative.mb-6-fluid.box-shadow-active-mktg.mx-auto.home-mobile-iphone.build-in-slideY.js-build-in > .js-viewport-aware-video.width-full
+.overflow-hidden.position-relative.box-shadow-active-border-mktg.rounded-2-fluid.color-bg-primary.build-in-scale-fade.js-build-in-item
+.build-in-animate.overflow-hidden.box-shadow-active-border-mktg.rounded-2-fluid.position-relative.home-workflow-comp.js-build-in-item
+.mx-lg-auto.col-lg-7.col-12
+
+CSS
+.markdown-body code,
+.markdown-body pre,
+.markdown-title code {
+    background-color: ${rgba(27, 31, 35, 0.1)} !important;
+}
+.markdown-body pre code {
+    background-color: transparent !important;
+}
+.refined-github .dashboard .js-all-activity-header + div {
+    background-color: ${#e4e5e9} !important;
+    border-color: ${#bbc1c9} !important;
+}
+.refined-github .dashboard-rollup-items .body {
+    border-top-color: ${#bbc1c9} !important;
+}
+.refined-github .reaction-summary-item a {
+    box-shadow: 0 0 0 2px ${white} !important;
+}
+.refined-github button.reaction-summary-item {
+    border-top-color: rgb(52, 59, 68) !important;
+    border-bottom: rgb(77, 172, 253) !important;
+}
+.js-site-search-form {
+    background-color: #ffffff1a !important;
+    border-radius: 2pt !important;
+}
+.blob-num:not(.cc-coverage-covered-border):not(.cc-coverage-missed-border) {
+    border-right: 0 !important;
+}
+.cc-issue-description {
+    color: #24292e !important;
+}
+.cc-readup-background {
+    background-color: rgb(28, 30, 31) !important
+}
+.cc-readup-content {
+    border-left: 1px solid grey !important;
+    color: rgb(216, 214, 208) !important;
+}
+.cc-readup-content blockquote {
+    border-left: 3px solid dimgrey !important;
+}
+.cc-pr__link-text {
+    color: darkgrey !important;
+}
+.cc-pr__tooltip {
+    background-color: rgb(28, 30, 31) !important;
+    color: darkgrey !important;
+}
+.jfk-bubble, .octotree-sidebar, .cc-pr__logo, .cc-octicon, #network canvas, img.network-tree {
+    filter: invert(94.4%) hue-rotate(180deg) contrast(90%) !important;
+}
+.blob-code-inner, .blob-code-inner > *, .CodeMirror pre > span, .CodeMirror-linenumber {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace !important;
+}
+#commit-activity-detail > svg {
+    fill: ${black} !important;
+}
+.ContributionCalendar-day,
+.ContributionCalendar-day[data-level="0"] {
+    fill: var(--color-calendar-graph-day-bg) !important;
+}
+.ContributionCalendar-day[data-level="1"] {
+    fill: var(--color-calendar-graph-day-L1-bg) !important;
+}
+.ContributionCalendar-day[data-level="2"] {
+    fill: var(--color-calendar-graph-day-L2-bg) !important;
+}
+.ContributionCalendar-day[data-level="3"] {
+    fill: var(--color-calendar-graph-day-L3-bg) !important;
+}
+.ContributionCalendar-day[data-level="4"] {
+    fill: var(--color-calendar-graph-day-L4-bg) !important;
+}
+.day,
+.day[data-Count="0"] {
+    fill: var(--color-calendar-graph-day-bg) !important;
+}
+.day[data-Count="1"] {
+    fill: var(--color-calendar-graph-day-L1-bg) !important;
+}
+.day[data-Count="2"] {
+    fill: var(--color-calendar-graph-day-L2-bg) !important;
+}
+.day[data-Count="3"] {
+    fill: var(--color-calendar-graph-day-L3-bg) !important;
+}
+.day[data-Count="4"] {
+    fill: var(--color-calendar-graph-day-L4-bg) !important;
+}
+:root {
+    --color-previewable-comment-form-bg: var(--darkreader-neutral-background) !important;
+    --color-calendar-graph-day-bg: ${#ebedf0} !important;
+    --color-calendar-graph-day-L1-bg: ${#9be9a8} !important;
+    --color-calendar-graph-day-L2-bg: ${#40c463} !important;
+    --color-calendar-graph-day-L3-bg: ${#30a14e} !important;
+    --color-calendar-graph-day-L4-bg: ${#216e39} !important;
+}
+.Box-row--yellow {
+    background-color: ${#fffbdd} !important;
+}
+.merge-status-list {
+    border-color: ${#c0c5c7} !important;
+}
+.user-has-reacted {
+    background-color: rgba(17, 88, 199, 0.2) !important;
+}
+.hx_IssueLabel {
+    background: rgb(var(--label-r),var(--label-g),var(--label-b)) !important;
+    color: hsl(0,0%,calc(var(--lightness-switch)*100%)) !important;
+    border-color: hsla(var(--label-h),calc(var(--label-s)*1%),calc((var(--label-l) - 25)*1%),var(--border-alpha)) !important;
+}
+.header-search-input {
+    border: 0 !important;
+}
+.timeline-comment--caret.current-user::after {
+    --color-current-user-tip-bg: var(--darkreader-bg--color-box-bg-info) !important;
+}
+.timeline-comment--caret.current-user::before {
+    background-color: var(--darkreader-border--color-box-border-info) !important;
+}
+@media screen and (min-width: 1012px) {
+    markdown-toolbar.border-lg-top-0 {
+        border-top: 1px solid var(--darkreader-border--color-border-primary) !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    div.tabnav--responsive button.tabnav-tab {
+        --color-border-primary: var(--darkreader-border--color-border-primary) !important;
+    }
+}
+.TimelineItem-badge[style^="background-color: var(--color-timeline-merged-bg)"] {
+    background-color: var(--color-timeline-merged-bg) !important;
+}
+.ContributionCalendar-label {
+    --color-text-primary: var(--darkreader-neutral-text) !important;
+}
+article div[style^="background: linear-gradient"] {
+    background: linear-gradient(to top, var(--darkreader-bg--color-bg-primary), transparent) !important;
+}
+
+IGNORE INLINE STYLE
+a[href^="https://apps.apple.com/app/"] g
+a[href^="https://apps.apple.com/app/"] path
+tracked-issues-progress svg *
