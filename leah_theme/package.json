@@ -1,0 +1,22 @@
+{
+  "name": "imported-sublime-to-cursor-theme",
+  "displayName": "Imported Sublime Theme",
+  "publisher": "local",
+  "description": "Auto-converted from a Sublime .tmTheme for Cursor/VS Code",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Imported Sublime Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/imported-sublime.json"
+      }
+    ]
+  }
+}

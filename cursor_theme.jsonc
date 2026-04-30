@@ -1,0 +1,192 @@
+{
+    "name": "Leah",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#181929",
+        "editor.foreground": "#F8F8F2",
+        "editorCursor.foreground": "#F8F8F0",
+        "editor.lineHighlightBackground": "#1C226B",
+        "editor.selectionBackground": "#24284F",
+        "editorWhitespace.foreground": "#1C226B",
+        "activityBar.background": "#181929",
+        "sideBar.background": "#181929",
+        "statusBar.background": "#181929",
+        "titleBar.activeBackground": "#181929"
+    },
+    "tokenColors": [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "settings": {
+                "foreground": "#5F617A"
+            }
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "settings": {
+                "foreground": "#FAE06E"
+            }
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#FF61F7"
+            }
+        },
+        {
+            "name": "Built-in constant",
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#FF61F7"
+            }
+        },
+        {
+            "name": "User-defined constant",
+            "scope": [
+                "constant.character",
+                "constant.other",
+                "variable.other.constant"
+            ],
+            "settings": {
+                "foreground": "#FFA8F9"
+            }
+        },
+        {
+            "name": "Variable",
+            "scope": "variable",
+            "settings": {
+                "foreground": "#FA9E2D"
+            }
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#8FA8D6"
+            }
+        },
+        {
+            "name": "Storage",
+            "scope": "storage",
+            "settings": {
+                "foreground": "#8FA8D6"
+            }
+        },
+        {
+            "name": "Storage type",
+            "scope": "storage.type",
+            "settings": {
+                "foreground": "#DFFF40",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Class name",
+            "scope": "entity.name.class",
+            "settings": {
+                "foreground": "#C48BF5"
+            }
+        },
+        {
+            "name": "Inherited class",
+            "scope": "entity.other.inherited-class",
+            "settings": {
+                "foreground": "#C48BF5",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Function name",
+            "scope": "entity.name.function",
+            "settings": {
+                "foreground": "#C48BF5"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#FA9E2D",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Tag name",
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#8FA8D6"
+            }
+        },
+        {
+            "name": "Tag attribute",
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#AE81FF"
+            }
+        },
+        {
+            "name": "Library function",
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#DFFF40"
+            }
+        },
+        {
+            "name": "Library constant",
+            "scope": "support.constant",
+            "settings": {
+                "foreground": "#DFFF40"
+            }
+        },
+        {
+            "name": "Library class/type",
+            "scope": [
+                "support.type",
+                "support.class"
+            ],
+            "settings": {
+                "foreground": "#DFFF40",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Invalid",
+            "scope": "invalid",
+            "settings": {
+                "foreground": "#F8F8F0",
+                "background": "#96005A"
+            }
+        },
+        {
+            "name": "Invalid deprecated",
+            "scope": "invalid.deprecated",
+            "settings": {
+                "foreground": "#F8F8F0",
+                "background": "#5F05A8"
+            }
+        },
+        {
+            "name": "Function Decorator",
+            "scope": "variable.annotation",
+            "settings": {
+                "foreground": "#DFFF40"
+            }
+        },
+        {
+            "name": "Function Decorator Leading Symbol",
+            "scope": "punctuation.definition.annotation",
+            "settings": {
+                "foreground": "#8FA8D6"
+            }
+        },
+        {
+            "name": "Function Call",
+            "scope": "variable.function",
+            "settings": {
+                "foreground": "#DFFF40"
+            }
+        }
+    ]
+}

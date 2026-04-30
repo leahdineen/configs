@@ -1,0 +1,42 @@
+# Font (matches iTerm2 setting)
+font-family = Monaco
+font-size = 12
+
+# Left Option acts as Alt (readline word/edit shortcuts);
+# right Option still types macOS special characters.
+macos-option-as-alt = left
+
+# Background and foreground (from Sublime "Leah" theme)
+background = #181929
+foreground = #F8F8F2
+
+# Cursor (Sublime caret)
+cursor-color = #F8F8F0
+cursor-text = #181929
+
+# Selection (Sublime)
+selection-background = #24284F
+selection-foreground = #F8F8F2
+
+# ANSI palette (from iTerm2 Default profile)
+palette = 0=#000000
+palette = 1=#a60c6a
+palette = 2=#b5711e
+palette = 3=#aba550
+palette = 4=#7aa2f7
+palette = 5=#8556ad
+palette = 6=#2c9bb1
+palette = 7=#bfbfbf
+palette = 8=#666666
+palette = 9=#d60b88
+palette = 10=#fa9e2d
+palette = 11=#e2dc75
+palette = 12=#a4b9ff
+palette = 13=#c48bf5
+palette = 14=#40dfff
+palette = 15=#e6e5e6
+
+# Keybindings ported from iTerm2
+keybind = alt+left=esc:b
+keybind = alt+right=esc:f
+keybind = shift+enter=text:\n
