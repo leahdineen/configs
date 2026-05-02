@@ -6,6 +6,10 @@ font-size = 12
 # right Option still types macOS special characters.
 macos-option-as-alt = left
 
+# New windows and tabs always start in ~/g
+working-directory = /Users/leahdineen/g
+window-inherit-working-directory = false
+
 # Background and foreground (from Sublime "Leah" theme)
 background = #181929
 foreground = #F8F8F2
