@@ -13,6 +13,7 @@ Terminal and editor configs, themes, and an install script for getting a new Mac
 | `sublime_theme` | Sublime Text color theme (.tmTheme) |
 | `cursor_theme.jsonc` / `leah-theme.json` / `leah_theme/` | Cursor editor themes |
 | `darkreader_configs` | Dark Reader browser extension settings |
+| `zshrc` | zsh config — prompt, aliases, tab title, plugin loading. **Sanitized**: API key lines are commented placeholders, not real values. |
 | `bash_profile` | Old bash config (kept for reference) |
 | `.gitconfig` | git config including delta diff settings |
 | `.git-completion.bash` | git tab-completion for bash |

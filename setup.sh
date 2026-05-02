@@ -54,8 +54,9 @@ cat <<'EOF'
 
     iTerm2:     import iterm.itermcolors via Preferences → Profiles → Colors
 
-    Zsh:        append the "Power-user CLI tools" block to ~/.zshrc
-                (see terminal-cheatsheet.md for what it contains)
+    Zsh:        copy zshrc to ~/.zshrc (or merge into existing).
+                Then fill in API keys — DO NOT paste them into this repo.
+                Recommended: macOS Keychain (see comment block in zshrc).
 
     Git:        merge .gitconfig contents into ~/.gitconfig
                 (delta config is in there)
