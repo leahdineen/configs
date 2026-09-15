@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Leah.tmTheme",
+	"font_size": 14,
+	"theme": "Adaptive.sublime-theme",
+	"show_full_path": true,
+	"enable_tab_scrolling": false,
+	"translate_tabs_to_spaces": true,
+	"detect_indentation": false,
+	"index_files": true,
+	"ignored_packages": [
+		"Vintage"
+	]
+}
