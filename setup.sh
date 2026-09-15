@@ -47,8 +47,14 @@ cat <<'EOF'
     Ghostty:    cp ghostty/config ~/.config/ghostty/config
                 (create the dir first if needed: mkdir -p ~/.config/ghostty)
 
-    Sublime:    copy sublime_theme into Sublime's Packages/Themes dir
-                (Preferences → Browse Packages…)
+    Sublime:    install Package Control, open Preferences → Browse Packages…,
+                then from this repo run:
+
+                  cp sublime_theme "$HOME/Library/Application Support/Sublime Text/Packages/User/Leah.tmTheme"
+                  cp sublime/* "$HOME/Library/Application Support/Sublime Text/Packages/User/"
+
+                Package Control will install the packages listed in
+                sublime/Package Control.sublime-settings.
 
     Cursor:     import leah-theme.json or use the .vsix in leah_theme/
 

@@ -11,6 +11,7 @@ Terminal and editor configs, themes, and an install script for getting a new Mac
 | `terminal-cheatsheet.md` | Keybindings and tool reference for the CLI setup |
 | `iterm.itermcolors` | iTerm2 color scheme |
 | `sublime_theme` | Sublime Text color theme (.tmTheme) |
+| `sublime/` | Sublime Text preferences, keybindings, packages, and Markdown preview plugin |
 | `cursor_theme.jsonc` / `leah-theme.json` / `leah_theme/` | Cursor editor themes |
 | `darkreader_configs` | Dark Reader browser extension settings |
 | `zshrc` | zsh config — prompt, aliases, tab title, plugin loading. **Sanitized**: API key lines are commented placeholders, not real values. |
